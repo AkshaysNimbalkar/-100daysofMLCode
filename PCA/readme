@@ -1,3 +1,4 @@
+# day-1
 PCA From scratch using iris data set.
 
 This is step by step approach for building pca. It shows How internally sklearnPCA works.
