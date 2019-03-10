@@ -1,0 +1,9 @@
+PCA From scratch using iris data set.
+
+This is step by step approach for building pca. It shows How internally sklearnPCA works.
+Mainly there are  5  steps:
+1. standardize the data
+2. eigen decomposition on covariance matrix
+3. Select principal components on by using eigen values
+4. construct projection matix
+5. use this projection matrix to transform features on to new subplace using dot product.
