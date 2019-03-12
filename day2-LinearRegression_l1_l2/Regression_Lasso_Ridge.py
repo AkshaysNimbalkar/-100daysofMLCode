@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("E:/DataScience_Study/3months/Data-Lit/week4-Regression/4.1_Regression_Mathematics/ISL-Ridge-Lasso-master/data/Advertising.csv")
+df = pd.read_csv("Advertising.csv")
 df.drop(['Unnamed: 0'], axis=1, inplace=True)
 df.head()
 
