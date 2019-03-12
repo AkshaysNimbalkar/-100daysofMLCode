@@ -1,0 +1,8 @@
+#
+Comaprison results of various regression techniques:like
+simple linear regression
+multiple linear regression
+L2 ridge Regression
+L1 Lasso Regression.
+
+# using best parameters and best score i.e mse's.
