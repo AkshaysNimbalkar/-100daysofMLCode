@@ -1,0 +1,3 @@
+Performed Regression on used cars dataset... where datset has hugh missing data and outliers
+main problem was data preparation and tuning model
+i tried linear, mulivariable and ridge regression to tune this model.\and ended up with 85% accurasy.
