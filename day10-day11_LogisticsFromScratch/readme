@@ -1,0 +1,3 @@
+I tried to performing logistic on scikit learns in built dataset i.e fetch_covtype it is multiclassification problem. 
+but ended up appling on titanic dataset for binary classification. 
+but wont achieve what i want. Hopefully i will apply logistic from scratch in next coming assignments.
